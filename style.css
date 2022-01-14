@@ -1,0 +1,24 @@
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 728px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
+  body{
+      background-image:url('cuencajpg.jpg') ;
+      background-size:cover;  
+      position: relative;
+     
+  }
+  .seminegro{
+      background-color: rgba(0,0,0,.7);
+      position: absolute;
+  }
+ 
